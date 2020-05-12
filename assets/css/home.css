@@ -4,6 +4,7 @@
   
   
   .bg-color {
+  .bg-skin-01 {
       background-color: #dedede;
       background-image:
        linear-gradient(#ecebeb 50%, transparent 50%, transparent);
