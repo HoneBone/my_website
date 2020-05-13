@@ -13,7 +13,16 @@
     border-style: none;
     border-width: 0 0 2px 0;
   }
- 
+  
+  .footer-struc {
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+    padding: 10px; 
+    box-sizing: border-box;
+    border-style: none;
+    border-width: 0 0 2px 0;
+  }
   
   .title-logo {
     width: 100%;
@@ -34,7 +43,7 @@
     padding: 30px;
     width: 1100px;
     box-sizing: border-box;
-    height: 1500px;
+    min-height: 1000px;
     border-style: solid;
     border-width: 4px;
     margin-bottom: 50px;
@@ -88,6 +97,17 @@
     border-width: 1px;
     border-radius: 5px;
     cursor: pointer;
+  }
+
+  .links-wrapper {
+    width: auto;
+    padding: 0 20px;
+  }
+
+  .section-link {
+    display: list-item;
+    width: auto;
+    text-decoration: none;
   }
   
   .article-toc {

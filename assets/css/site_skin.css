@@ -15,6 +15,11 @@
     box-shadow: 0 2px 4px;
 }
 
+.footer-skin {
+    background-color: #16825D;
+    box-shadow: 0 -2px 4px;
+}
+
 .section-skin {
     border-style: solid;
     border-color: #007ACC;
@@ -45,4 +50,8 @@
 
 .toc-item-skin {
     background-color: #333333;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: white;
 }
