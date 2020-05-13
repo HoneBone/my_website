@@ -1,0 +1,48 @@
+.bg-skin-01 {
+    background-color: #dedede;
+    background-image:
+     linear-gradient(#ecebeb 50%, transparent 50%, transparent);
+    background-size: 5px 5px;
+}
+
+.text-skin-01 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
+ 
+.header-skin {
+    background-color: #007ACC;
+    box-shadow: 0 2px 4px;
+}
+
+.section-skin {
+    border-style: solid;
+    border-color: #007ACC;
+    /*box-shadow: 2px 2px #858585 inset;*/
+}
+
+.tags-skin {
+    background-color: #333333;
+    border-color: #858585;
+} 
+
+
+.bar-color {
+    background-color: #fff;
+    border-color: #16825D; /*#007ACC;*/
+    box-shadow: 4px 4px 4px;
+}
+
+.window-skin {
+    background-color: #1E1E1E;
+    border-color: #16825D; /*#007ACC;*/
+    box-shadow: 4px 4px 4px;
+}
+
+.toc-skin {
+    background-color: #858585;
+}
+
+.toc-item-skin {
+    background-color: #333333;
+}
